@@ -1,2 +1,2 @@
 # jamesnorton.design-archive
-Public archive of portfolio site. 
+Hosted with Firebase at https://jamesnorton-design-archive.firebaseapp.com/2020/2020-homepage
